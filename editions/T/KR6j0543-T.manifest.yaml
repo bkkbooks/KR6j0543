@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0543/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0543/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 難儞計濕嚩囉天說支輪經
+  identifiers:
+    krp: KR6j0543
+    cbeta: T21n1312
+    cbeta_old_id: T21n1312
+    authorityid: CA0002335
+    json_key: T1312
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1312.xml
+    old_id: T21n1312
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0543_000-T.yaml, hash: 'sha256:640df0bb0962bc52a9fcf437f4c24c8f7dbf1ef05e87047011ac5a1575ba75fe'}
+  - {seq: 1, filename: KR6j0543_001-T.yaml, hash: 'sha256:495ad383d95554a4237d5d9c942ebca244f0c97649ed509bd680f36ed74e1f53'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0543_000-T.markers.yaml, hash: 'sha256:49004ca0887382b4492e097cc2531f3f02f5e0ea0b658de838e000714a15620f'}
+  - {seq: 1, role: markers, filename: assets/KR6j0543_001-T.markers.yaml, hash: 'sha256:8753b60d8c4e3dc8fea880fabb25e9c8cc38b61b8908ab82fa820b20bfce6112'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0543_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2045
+  label: 難儞計濕嚩囉天說支輪經
+  type: juan
+  level: 1
+hash: sha256:ce0a07a9d5fb9817a5aebc25d17d88f7ec83fe1948c8010dac6b90a893ef6c07

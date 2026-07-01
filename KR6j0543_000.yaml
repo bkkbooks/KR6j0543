@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0543/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 難儞計濕嚩囉天說支輪經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1312.xml
+    old_id: T21n1312
+hash: sha256:640df0bb0962bc52a9fcf437f4c24c8f7dbf1ef05e87047011ac5a1575ba75fe
