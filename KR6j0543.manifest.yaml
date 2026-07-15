@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0543/v1
 canonical_location: https://kanripo.org/bkk/KR6j0543/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 難儞計濕嚩囉天說支輪經
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0543_000.yaml, hash: 'sha256:640df0bb0962bc52a9fcf437f4c24c8f7dbf1ef05e87047011ac5a1575ba75fe'}
-  - {seq: 1, filename: KR6j0543_001.yaml, hash: 'sha256:495ad383d95554a4237d5d9c942ebca244f0c97649ed509bd680f36ed74e1f53'}
+  - {seq: 1, filename: KR6j0543_001.yaml, hash: 'sha256:eaee8badf250527fa6309d348e15e9730c9a67050041fbd941e026d1cffc559c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0543_000.markers.yaml, hash: 'sha256:660337a544538da711e4c0981d25c5b116c417f4e0bb70faefa442296f52bbab'}
-  - {seq: 1, role: markers, filename: assets/KR6j0543_001.markers.yaml, hash: 'sha256:3fc99e0b89672850876266eeebb8edde1d1b033bfc923a0aa6f4eedd993a9efb'}
+  - {seq: 1, role: markers, filename: assets/KR6j0543_001.markers.yaml, hash: 'sha256:d6f7ffd8a94d3d343722e4c0899ea86f6c26d34c4d024600d599941ed5ef96d6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 難儞計濕嚩囉天說支輪經
   type: juan
   level: 1
-hash: sha256:f9dc26f3a2b521cedfb0576b34586e7a3974ea67937fe8dda54b164a51d17afd
+hash: sha256:5c5e4f8f7fd8acf066b26987707925bdcbdadd857fc16bbe259a6eaeb6fcf1f0
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
